@@ -1,0 +1,32 @@
+.soical_section .soical_title h2 {
+background-color: #0000ff; 
+color: #fff; 
+padding: 15px; }
+
+.soical_section {
+max-width: 1020px;
+margin: 0 auto;
+}
+.soical_section .soical_title h2 {
+background-color: 
+#0000ff; color: #fff; 
+padding: 15px;
+}
+.soical_section {
+max-width: 1020px;
+margin: 0 auto;
+}
+.soical_section input[type="submit"] {
+background-color: #052df3;
+border: none;
+padding: 10px 30px;
+color: #fff;
+font-size: 18px;
+max-width: 120px;
+}
+.soical_section input[type="text"] {
+height: 30px;
+max-width: 500px;
+width: 100%;
+margin-top: 10px;
+}

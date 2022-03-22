@@ -1,0 +1,1 @@
+$(".social_group").appendTo(".powr-social-media-icons");
