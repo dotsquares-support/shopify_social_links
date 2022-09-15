@@ -1,8 +1,8 @@
 <?php
 require_once("inc/functions.php");
 require_once("inc/db.php");
-$api_key = "1e69a73193cec5e4046fb3bc50589954";
-$shared_secret = "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";
+$api_key = "#########";
+$shared_secret = "############";
 
 $params = $_GET; 
 $hmac = $_GET['hmac']; 
